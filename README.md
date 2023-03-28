@@ -16,20 +16,15 @@ Here are some ideas to get you started:
 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi!%20DongYoung%20Github&fontSize=70" />
 
-<div align="left"
-     size =120>
-👨‍💻
-
-</div>
 <div align="left">
 
-안녕하세요. Android Developer 이동영 입니다.
+👨‍💻 안녕하세요. Android Developer 이동영 입니다.
 
-새로운것을 알아가며 빈틈을 채워가는 개발자
+   새로운것을 알아가며 빈틈을 채워가는 개발자
 
-꾸준히 노력하여 문제를 해결하는 개발자
+   꾸준히 노력하여 문제를 해결하는 개발자
 
-효율적인 개발을 위해 의사소통을 중요하게 여기는 개발자
+   효율적인 개발을 위해 의사소통을 중요하게 여기는 개발자
 
 </div>
 
