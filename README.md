@@ -16,8 +16,12 @@ Here are some ideas to get you started:
 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi!%20DongYoung%20Github&fontSize=70" />
 
+<div align="center">
+#👨‍💻
+
+</div>
 <div align="left">
-👨‍💻
+
 안녕하세요. Android Developer 이동영 입니다.
 
 새로운것을 알아가며 빈틈을 채워가는 개발자
