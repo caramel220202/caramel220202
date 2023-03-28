@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div align="left">
 
-# 안녕하세요. Android Developer 이동영 입니다.
+안녕하세요. Android Developer 이동영 입니다.
 
 </div>
 
