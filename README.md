@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div align="left">
 
-👨‍💻 안녕하세요. Android Developer 이동영 입니다.
+👨‍💻 안녕하세요. Developer 이동영 입니다.
 
    새로운것을 알아가며 빈틈을 채워가는 개발자
 
@@ -41,4 +41,12 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white" />
 	<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white" />
 </div>
-
+<div align="center">
+	<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+	<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+	<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+	<img src="https://img.shields.io/badge/mongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
+</div>
+<div>
+	<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+</div>
