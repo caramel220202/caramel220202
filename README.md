@@ -47,6 +47,6 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white">
 	<img src="https://img.shields.io/badge/mongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
 </div>
-<div>
+<div align="center>
 	<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
 </div>
