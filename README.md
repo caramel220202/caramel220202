@@ -46,8 +46,8 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=black">
 	<img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white">
 	<img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white">
-	<img src="https://img.shields.io/badge/mongoDB-47A248?style=flat&logo=MongoDB&logoColor=white">
-	<img src="https://img.shields.io/badge/javascript-#F7DF1E?style=flat&logo=Javascript&logoColor=white" />
+<!-- 	<img src="https://img.shields.io/badge/mongoDB-47A248?style=flat&logo=MongoDB&logoColor=white"> -->
+	<img src="https://img.shields.io/badge/javascript-#F7DF1E?style=flat&logo=javascript&logoColor=white" />
 </div>
 <div align="center>
 	<img src="https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white">
